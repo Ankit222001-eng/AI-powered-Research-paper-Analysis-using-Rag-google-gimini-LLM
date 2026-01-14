@@ -1,0 +1,11 @@
+flask
+python-dotenv
+requests
+
+# --- LangChain + Google Gemini ---
+langchain>=1.0.0
+langchain-core>=1.0.0
+langchain-google-genai>=1.0.0
+
+# For output parsing
+tiktoken
